@@ -17,22 +17,12 @@ namespace On_Screen_Keyboard
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button4_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button6_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void button34_Click(object sender, EventArgs e)
+        private void key_numpad_forward_slash_Click(object sender, EventArgs e)
         {
 
         }
