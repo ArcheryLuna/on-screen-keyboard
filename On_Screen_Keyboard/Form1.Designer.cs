@@ -45,8 +45,8 @@
             this.function_eleven = new System.Windows.Forms.Button();
             this.function_twelve = new System.Windows.Forms.Button();
             this.key_one = new System.Windows.Forms.Button();
-            this.button20 = new System.Windows.Forms.Button();
-            this.button21 = new System.Windows.Forms.Button();
+            this.key_two = new System.Windows.Forms.Button();
+            this.key_three = new System.Windows.Forms.Button();
             this.button22 = new System.Windows.Forms.Button();
             this.button23 = new System.Windows.Forms.Button();
             this.button24 = new System.Windows.Forms.Button();
@@ -59,7 +59,7 @@
             this.button31 = new System.Windows.Forms.Button();
             this.button32 = new System.Windows.Forms.Button();
             this.button33 = new System.Windows.Forms.Button();
-            this.toggle_shift = new System.Windows.Forms.Button();
+            this.toggle_left_shift = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.button35 = new System.Windows.Forms.Button();
@@ -95,7 +95,7 @@
             this.button65 = new System.Windows.Forms.Button();
             this.button66 = new System.Windows.Forms.Button();
             this.button67 = new System.Windows.Forms.Button();
-            this.button68 = new System.Windows.Forms.Button();
+            this.toggle_right_shift = new System.Windows.Forms.Button();
             this.button69 = new System.Windows.Forms.Button();
             this.button70 = new System.Windows.Forms.Button();
             this.button71 = new System.Windows.Forms.Button();
@@ -263,23 +263,23 @@
             this.key_one.Text = "1";
             this.key_one.UseVisualStyleBackColor = true;
             // 
-            // button20
+            // key_two
             // 
-            this.button20.Location = new System.Drawing.Point(134, 53);
-            this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(55, 53);
-            this.button20.TabIndex = 19;
-            this.button20.Text = "button20";
-            this.button20.UseVisualStyleBackColor = true;
+            this.key_two.Location = new System.Drawing.Point(134, 53);
+            this.key_two.Name = "key_two";
+            this.key_two.Size = new System.Drawing.Size(55, 53);
+            this.key_two.TabIndex = 19;
+            this.key_two.Text = "2";
+            this.key_two.UseVisualStyleBackColor = true;
             // 
-            // button21
+            // key_three
             // 
-            this.button21.Location = new System.Drawing.Point(195, 53);
-            this.button21.Name = "button21";
-            this.button21.Size = new System.Drawing.Size(55, 53);
-            this.button21.TabIndex = 20;
-            this.button21.Text = "button21";
-            this.button21.UseVisualStyleBackColor = true;
+            this.key_three.Location = new System.Drawing.Point(195, 53);
+            this.key_three.Name = "key_three";
+            this.key_three.Size = new System.Drawing.Size(55, 53);
+            this.key_three.TabIndex = 20;
+            this.key_three.Text = "3";
+            this.key_three.UseVisualStyleBackColor = true;
             // 
             // button22
             // 
@@ -389,15 +389,15 @@
             this.button33.Text = "button33";
             this.button33.UseVisualStyleBackColor = true;
             // 
-            // toggle_shift
+            // toggle_left_shift
             // 
-            this.toggle_shift.Location = new System.Drawing.Point(12, 232);
-            this.toggle_shift.Name = "toggle_shift";
-            this.toggle_shift.Size = new System.Drawing.Size(90, 53);
-            this.toggle_shift.TabIndex = 33;
-            this.toggle_shift.Text = "button34";
-            this.toggle_shift.UseVisualStyleBackColor = true;
-            this.toggle_shift.Click += new System.EventHandler(this.button34_Click);
+            this.toggle_left_shift.Location = new System.Drawing.Point(12, 232);
+            this.toggle_left_shift.Name = "toggle_left_shift";
+            this.toggle_left_shift.Size = new System.Drawing.Size(90, 53);
+            this.toggle_left_shift.TabIndex = 33;
+            this.toggle_left_shift.Text = "Shift";
+            this.toggle_left_shift.UseVisualStyleBackColor = true;
+            this.toggle_left_shift.Click += new System.EventHandler(this.button34_Click);
             // 
             // button5
             // 
@@ -714,14 +714,14 @@
             this.button67.Text = "button67";
             this.button67.UseVisualStyleBackColor = true;
             // 
-            // button68
+            // toggle_right_shift
             // 
-            this.button68.Location = new System.Drawing.Point(779, 230);
-            this.button68.Name = "button68";
-            this.button68.Size = new System.Drawing.Size(142, 53);
-            this.button68.TabIndex = 69;
-            this.button68.Text = "button68";
-            this.button68.UseVisualStyleBackColor = true;
+            this.toggle_right_shift.Location = new System.Drawing.Point(779, 230);
+            this.toggle_right_shift.Name = "toggle_right_shift";
+            this.toggle_right_shift.Size = new System.Drawing.Size(142, 53);
+            this.toggle_right_shift.TabIndex = 69;
+            this.toggle_right_shift.Text = "Shift";
+            this.toggle_right_shift.UseVisualStyleBackColor = true;
             // 
             // button69
             // 
@@ -827,7 +827,7 @@
             this.Controls.Add(this.button71);
             this.Controls.Add(this.button70);
             this.Controls.Add(this.button69);
-            this.Controls.Add(this.button68);
+            this.Controls.Add(this.toggle_right_shift);
             this.Controls.Add(this.button67);
             this.Controls.Add(this.button66);
             this.Controls.Add(this.button65);
@@ -863,7 +863,7 @@
             this.Controls.Add(this.button35);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
-            this.Controls.Add(this.toggle_shift);
+            this.Controls.Add(this.toggle_left_shift);
             this.Controls.Add(this.button33);
             this.Controls.Add(this.button32);
             this.Controls.Add(this.button31);
@@ -876,8 +876,8 @@
             this.Controls.Add(this.button24);
             this.Controls.Add(this.button23);
             this.Controls.Add(this.button22);
-            this.Controls.Add(this.button21);
-            this.Controls.Add(this.button20);
+            this.Controls.Add(this.key_three);
+            this.Controls.Add(this.key_two);
             this.Controls.Add(this.key_one);
             this.Controls.Add(this.function_twelve);
             this.Controls.Add(this.function_eleven);
@@ -920,8 +920,8 @@
         private System.Windows.Forms.Button function_eleven;
         private System.Windows.Forms.Button function_twelve;
         private System.Windows.Forms.Button key_one;
-        private System.Windows.Forms.Button button20;
-        private System.Windows.Forms.Button button21;
+        private System.Windows.Forms.Button key_two;
+        private System.Windows.Forms.Button key_three;
         private System.Windows.Forms.Button button22;
         private System.Windows.Forms.Button button23;
         private System.Windows.Forms.Button button24;
@@ -934,7 +934,7 @@
         private System.Windows.Forms.Button button31;
         private System.Windows.Forms.Button button32;
         private System.Windows.Forms.Button button33;
-        private System.Windows.Forms.Button toggle_shift;
+        private System.Windows.Forms.Button toggle_left_shift;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button button35;
@@ -970,7 +970,7 @@
         private System.Windows.Forms.Button button65;
         private System.Windows.Forms.Button button66;
         private System.Windows.Forms.Button button67;
-        private System.Windows.Forms.Button button68;
+        private System.Windows.Forms.Button toggle_right_shift;
         private System.Windows.Forms.Button button69;
         private System.Windows.Forms.Button button70;
         private System.Windows.Forms.Button button71;
