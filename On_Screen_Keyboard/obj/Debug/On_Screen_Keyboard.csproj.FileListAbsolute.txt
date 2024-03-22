@@ -1,0 +1,10 @@
+\\Mac\Home\Documents\Paul\Programming-Work\On_Screen_Keyboard\On_Screen_Keyboard\On_Screen_Keyboard\bin\Debug\On_Screen_Keyboard.exe.config
+\\Mac\Home\Documents\Paul\Programming-Work\On_Screen_Keyboard\On_Screen_Keyboard\On_Screen_Keyboard\bin\Debug\On_Screen_Keyboard.exe
+\\Mac\Home\Documents\Paul\Programming-Work\On_Screen_Keyboard\On_Screen_Keyboard\On_Screen_Keyboard\bin\Debug\On_Screen_Keyboard.pdb
+\\Mac\Home\Documents\Paul\Programming-Work\On_Screen_Keyboard\On_Screen_Keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Paul\Programming-Work\On_Screen_Keyboard\On_Screen_Keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.Form1.resources
+\\Mac\Home\Documents\Paul\Programming-Work\On_Screen_Keyboard\On_Screen_Keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.Properties.Resources.resources
+\\Mac\Home\Documents\Paul\Programming-Work\On_Screen_Keyboard\On_Screen_Keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Paul\Programming-Work\On_Screen_Keyboard\On_Screen_Keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Paul\Programming-Work\On_Screen_Keyboard\On_Screen_Keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.exe
+\\Mac\Home\Documents\Paul\Programming-Work\On_Screen_Keyboard\On_Screen_Keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.pdb
