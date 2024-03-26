@@ -14,6 +14,10 @@ namespace On_Screen_Keyboard
     {
         public Boolean ShiftKeyToggle = false;
         public Boolean CapsLockToggle = false;
+        public Boolean CtrlToggle = false;
+        public Boolean AltToggle = false;
+        public Boolean AltGraphToggle = false;
+        public Boolean NumsLockToggle = false;
 
         public Form1()
         {
@@ -258,6 +262,21 @@ namespace On_Screen_Keyboard
                 key_x.ForeColor = Color.Black;
                 key_y.ForeColor = Color.Black;
                 key_z.ForeColor = Color.Black;
+            }
+        }
+
+        private void toggle_left_control_Click(object sender, EventArgs e)
+        {
+            CtrlToggle = !CtrlToggle;
+
+            if (CtrlToggle) {
+                toggle_left_control.ForeColor = Color.Green;
+                toggle_right_control.ForeColor = Color.Green;
+            }
+            else
+            {
+                toggle_left_control.ForeColor = Color.Black;
+                toggle_right_control.ForeColor = Color.Black;
             }
         }
     }
