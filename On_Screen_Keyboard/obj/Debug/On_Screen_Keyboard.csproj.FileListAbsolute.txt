@@ -8,3 +8,13 @@
 \\Mac\Home\Documents\Paul\Programming-Work\On_Screen_Keyboard\On_Screen_Keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\Paul\Programming-Work\On_Screen_Keyboard\On_Screen_Keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.exe
 \\Mac\Home\Documents\Paul\Programming-Work\On_Screen_Keyboard\On_Screen_Keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.pdb
+C:\Users\mateo\Documents\on-screen-keyboard\On_Screen_Keyboard\bin\Debug\On_Screen_Keyboard.exe.config
+C:\Users\mateo\Documents\on-screen-keyboard\On_Screen_Keyboard\bin\Debug\On_Screen_Keyboard.exe
+C:\Users\mateo\Documents\on-screen-keyboard\On_Screen_Keyboard\bin\Debug\On_Screen_Keyboard.pdb
+C:\Users\mateo\Documents\on-screen-keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.csproj.AssemblyReference.cache
+C:\Users\mateo\Documents\on-screen-keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.Form1.resources
+C:\Users\mateo\Documents\on-screen-keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.Properties.Resources.resources
+C:\Users\mateo\Documents\on-screen-keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.csproj.GenerateResource.cache
+C:\Users\mateo\Documents\on-screen-keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\mateo\Documents\on-screen-keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.exe
+C:\Users\mateo\Documents\on-screen-keyboard\On_Screen_Keyboard\obj\Debug\On_Screen_Keyboard.pdb
